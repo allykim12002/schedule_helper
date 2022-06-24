@@ -1,1 +1,2 @@
-# A program that creates weekly employee schedules
+# CSCI 104 Project
+A program that creates weekly employee schedules
